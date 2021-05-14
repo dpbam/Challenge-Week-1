@@ -8,6 +8,10 @@
 
 #### I also learned about the <*aside*> *html* tag which more accurately described what the section at the bottom-right of the website was doing.
 
+##### In the end, we have a polished, professional, and accessible website. 
+
+###### For help I used: [README Markdown guide] (https://guides.github.com/features/mastering-markdown/) and (https://www.w3schools.io/file/markdown-links/) as well as (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#problems_solved_by_html5)
+
 
 1. [GitHub Published Page] https://dpbam.github.io/Challenge-Week-1/
 2. [GitHub Repo Link] https://github.com/dpbam/Challenge-Week-1
