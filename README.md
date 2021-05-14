@@ -38,4 +38,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 1. [GitHub Published Page] https://dpbam.github.io/Challenge-Week-1/
 2. [GitHub Repo Link] https://github.com/dpbam/Challenge-Week-1
-3. ![GitHub Logo](screenshot.png) 
+![GitHub Logo](screenshot.png) 
