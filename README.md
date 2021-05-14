@@ -1,6 +1,6 @@
-**Welcome to Horiseon**
+# **Welcome to Horiseon**
 
-Horiseon is a marketing agency with pizazz. Horiseon.com is a website with thorough accessibility standards that is optimized for today's search engines. 
+## Horiseon.com is the website with thorough accessibility standards that is optimized for today's search engines which aims to add credibility and clarity of communication for the marketing agency Horiseon.
 
 The first thing that I did was scan the html code for excessive and confusing <div> tags and replace them with more specific and descriptive tags for clarity. Then, I consolidated the css classes with exact properties to reduce clutter and redundancy. Then, I referenced the given website mock-up to make sure that my version matched. 
 
