@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* setting the size, font, color and background color of the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/* setting the width, height and font size of the h1 element within the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -25,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* positioning, and setting the font and font size of the navigation bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,11 +45,13 @@ body {
     margin-left: 25px;
 }
 
+/* anchor elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* these paragraphs will have a font size of 16px */
 p {
     font-size: 16px;
 }
@@ -61,22 +66,26 @@ p {
     background-position: center;
 }
 
+/* positioning the search engine optimization and social media marketing images left, forcing the text to the right */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* positioning the online reputation management section image to the right, forcing the text to the left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* setting the content elements' parameters */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* aside section parameters */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,7 +149,7 @@ p {
     font-size: 36px;
 }
 
-/* footer section */
+/* footer section parameters */
 .footer {
     padding: 30px;
     clear: both;
@@ -148,6 +157,7 @@ p {
     text-align: center;
 }
 
+/* setting the font size of the footer h2 */ 
 .footer h2 {
     font-size: 20px;
 }
